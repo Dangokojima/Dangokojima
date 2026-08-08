@@ -117,12 +117,12 @@ Integrações de Backend
 
 <table>
 <tr>
-<td width="180">
+<td width="300">
 
 <a href="https://play.google.com/store/apps/details?id=br.com.entrelacoseamassos.dog">
   <img
     src="https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/149377/d48b2ad4-f53d-48f2-88da-ae557fee1f45.png"
-    width="160"
+    width="280"
     alt="Entre Laços e Amassos"
   />
 </a>

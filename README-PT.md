@@ -51,8 +51,6 @@ UI/UX, desenvolvimento de jogos, ferramentas e sistemas.
 
 ---
 
-## 🎨 Design · 🎮 Desenvolvimento de Jogos · 💻 Programação
-
 <table>
 <tr>
 <td width="33%" align="center">

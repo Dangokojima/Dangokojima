@@ -113,16 +113,23 @@ Backend Integration
 
 ---
 
-## 🚀 Projects
+## 🎮 Current Projects
 
-Most of my repositories are focused on **game development, tools,
-experiments and systems**.
+### Entre Laços e Amassos
 
-I'm particularly interested in building things that connect
-good visual design with solid technical foundations.
+A narrative game focused on relationships, choices and interactive storytelling.
 
-> **Design is not separate from the system.  
-> The system is part of the design.**
+<p>
+  <a href="https://play.google.com/store/apps/details?id=br.com.entrelacoseamassos.dog">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/us/app/entre-la%C3%A7os-e-amassos/id6739788566">
+    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
+
+> A current project developed by Cosmic Dango, combining game development,
+> visual design and interactive storytelling.
 
 ---
 

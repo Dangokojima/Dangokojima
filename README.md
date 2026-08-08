@@ -51,8 +51,6 @@ to game development, tools and systems.
 
 ---
 
-## 🎨 Design · 🎮 Game Development · 💻 Programming
-
 <table>
 <tr>
 <td width="33%" align="center">

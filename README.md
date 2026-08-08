@@ -133,9 +133,15 @@ Backend Integration
 
 ### Entre Laços e Amassos
 
-A narrative game focused on relationships, choices and interactive storytelling.
+Narrative game focused on relationships, choices and interactive storytelling.
 
-**Unity · Mobile · Narrative Game**
+<p>
+  <img src="https://img.shields.io/badge/Game%20Design-8B5CF6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming-3B82F6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Identity-EC4899?style=flat-square&logoColor=white" />
+</p>
+
+*In collaboration with Doguinho Studios.*
 
 <br>
 

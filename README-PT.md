@@ -113,16 +113,23 @@ Integrações de Backend
 
 ---
 
-## 🚀 Projetos
+## 🎮 Projetos Atuais
 
-A maior parte dos meus repositórios é voltada para **desenvolvimento de
-jogos, ferramentas, experimentos e sistemas**.
+### Entre Laços e Amassos
 
-Tenho particular interesse em criar coisas que conectem um bom design
-visual com uma base técnica sólida.
+Um jogo narrativo focado em relacionamentos, escolhas e narrativa interativa.
 
-> **Design não está separado do sistema.  
-> O sistema também faz parte do design.**
+<p>
+  <a href="https://play.google.com/store/apps/details?id=br.com.entrelacoseamassos.dog">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/us/app/entre-la%C3%A7os-e-amassos/id6739788566">
+    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
+
+> Um projeto atual desenvolvido pela Cosmic Dango, unindo desenvolvimento
+> de jogos, design visual e narrativa interativa.
 
 ---
 

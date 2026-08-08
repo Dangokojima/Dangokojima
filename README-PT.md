@@ -115,51 +115,41 @@ Integrações de Backend
 
 ## 🎮 Projetos Atuais
 
+<table>
+<tr>
+<td width="180">
+
+<a href="https://play.google.com/store/apps/details?id=br.com.entrelacoseamassos.dog">
+  <img
+    src="https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/149377/d48b2ad4-f53d-48f2-88da-ae557fee1f45.png"
+    width="160"
+    alt="Entre Laços e Amassos"
+  />
+</a>
+
+</td>
+
+<td>
+
 ### Entre Laços e Amassos
 
 Um jogo narrativo focado em relacionamentos, escolhas e narrativa interativa.
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=br.com.entrelacoseamassos.dog">
-    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
-  <a href="https://apps.apple.com/us/app/entre-la%C3%A7os-e-amassos/id6739788566">
-    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-</p>
+**Unity · Mobile · Jogo Narrativo**
 
----
+<br>
 
-## 📊 Estatísticas do GitHub
+<a href="https://play.google.com/store/apps/details?id=br.com.entrelacoseamassos.dog">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Dangokojima&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangokojima&theme=transparent&hide_border=true&layout=compact&langs_count=8"
-  />
-</p>
+<a href="https://apps.apple.com/us/app/entre-la%C3%A7os-e-amassos/id6739788566">
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Dangokojima&theme=transparent&hide_border=true"
-  />
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Dangokojima&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
-  />
-</p>
-
----
+</td>
+</tr>
+</table>
 
 <p align="center">
   <sub>Obrigado por passar por aqui ✦</sub>

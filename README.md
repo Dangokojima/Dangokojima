@@ -128,9 +128,6 @@ A narrative game focused on relationships, choices and interactive storytelling.
   </a>
 </p>
 
-> A current project developed by Cosmic Dango, combining game development,
-> visual design and interactive storytelling.
-
 ---
 
 ## 📊 GitHub Stats

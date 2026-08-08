@@ -133,9 +133,15 @@ Integrações de Backend
 
 ### Entre Laços e Amassos
 
-Um jogo narrativo focado em relacionamentos, escolhas e narrativa interativa.
+Jogo narrativo focado em relacionamentos, escolhas e narrativa interativa.
 
-**Unity · Mobile · Jogo Narrativo**
+<p>
+  <img src="https://img.shields.io/badge/Game%20Design-8B5CF6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming-3B82F6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Identity-EC4899?style=flat-square&logoColor=white" />
+</p>
+
+*Em colaboração com Doguinho Studios.*
 
 <br>
 

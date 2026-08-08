@@ -1,21 +1,168 @@
-# 💫 About Me:
-👋 Hi, I’m @Dangokojima<br>👀 I’m interested in Graphic and Game Design<br>🌱 I’m currently learning programming<br>💞️ I’m looking to collaborate with whatever is within my reach<br>📫 How to reach me https://cosmicdango.com.br/
+<p align="center">
+  <img
+    src="https://www.cosmicdango.com.br/assets/images/image02.png?v=87bf7d27"
+    alt="Cosmic Dango"
+    width="420"
+  />
+</p>
 
+<h3 align="center">
+  Graphic Designer · Game Developer · Programmer
+</h3>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/cosmicdango) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cosmicdango) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cosmicdango/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.instagram.com/cosmicdango/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dangokojima) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/cosmicdango) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@cosmicdango) 
+<p align="center">
+  I design visuals, build games and create interactive experiences.
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dangokojima&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dangokojima&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangokojima&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://cosmicdango.com.br">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/cosmicdango">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/cosmicdango/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cosmicdango/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dangokojima&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="README-PT.md">
+    🇧🇷 <strong>PT-BR</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="README.md">
+    🇺🇸 <strong>EN</strong>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dangokojima&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✦ About Me
+
+I'm **Dango**, a designer and programmer focused on creating visual
+identities, interactive experiences and games.
+
+My work sits between **design and technology** — from branding and UI/UX
+to game development, tools and systems.
+
+---
+
+## 🎨 Design · 🎮 Game Development · 💻 Programming
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 Design
+
+Graphic Design  
+Brand Identity  
+UI / UX  
+Visual Systems
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎮 Game Development
+
+Unity  
+Godot  
+Game Systems  
+Interactive Experiences
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Programming
+
+C#  
+Firebase  
+Tools & Systems  
+Backend Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Development
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-202023?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects
+
+Most of my repositories are focused on **game development, tools,
+experiments and systems**.
+
+I'm particularly interested in building things that connect
+good visual design with solid technical foundations.
+
+> **Design is not separate from the system.  
+> The system is part of the design.**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Dangokojima&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangokojima&theme=transparent&hide_border=true&layout=compact&langs_count=8"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dangokojima&theme=transparent&hide_border=true"
+  />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Dangokojima&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>Thanks for stopping by ✦</sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Dangokojima&style=flat-square&color=grey"
+  />
+</p>

@@ -46,7 +46,7 @@
 Sou **Dango**, designer e programador focado na criação de identidades
 visuais, experiências interativas e jogos.
 
-Meu trabalho fica entre **design e tecnologia** — passando por branding,
+Meu trabalho fica entre **design e tecnologia**, passando por branding,
 UI/UX, desenvolvimento de jogos, ferramentas e sistemas.
 
 ---

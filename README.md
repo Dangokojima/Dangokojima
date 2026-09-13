@@ -46,7 +46,7 @@
 I'm **Dango**, a designer and programmer focused on creating visual
 identities, interactive experiences and games.
 
-My work sits between **design and technology** — from branding and UI/UX
+My work sits between **design and technology**, from branding and UI/UX
 to game development, tools and systems.
 
 ---
